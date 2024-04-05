@@ -90,6 +90,7 @@ curl -v 'localhost:8080/cgi-bin/adder?1&2'
 
 # Proxy Server (proxy.*)
 tiny 서버로 들어가기 전에 들리는 proxy 서버로, 필수 헤더들을 확인하고 누락된 헤더를 추가하여 tiny 서버로 HTTP 요청을 보낸다.
-tiny 서버로부터 받은 응답을 클라이언트에게 그대로 응답하고 있다.
+tiny 서버로부터 받은 응답을 클라이언트에게 그대로 응답하고 있다.  
 
+## 채점 결과(driver.sh)
 <img width="710" height="645" src="/images/adjust-proxy.png">
