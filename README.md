@@ -83,7 +83,7 @@ curl -v 'localhost:8080/cgi-bin/adder?1&2'
 < Content-type: text/html
 < 
 <h1>Welcome to add.com: The Internet addition portal.</h1>
-<p>The answer is: 1 + 2 = 3<p>
+<p>The answer is: 1 + 2 = 3</p>
 <h3>Thanks for visiting!</h3>
 * Closing connection 0
 ```
