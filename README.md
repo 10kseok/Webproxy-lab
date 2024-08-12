@@ -48,7 +48,7 @@ curl -v localhost:8080
     <div style="text-align: center; justify-content: center">
         <p>
             <img align="middle" src="godzilla.gif">
-            Dave O'Hallaron
+            Dave O Hallaron
         </p> 
         <p>
             <video width="320" height="600" controls>
